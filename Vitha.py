@@ -1,6 +1,7 @@
 print("Hello, World!")
 print("Vithakshana")
 
+#insert your details
 name = "Vithakshana"
 age = 24
 height = 5.11
